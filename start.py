@@ -1,9 +1,9 @@
-from discord.ext import commands #지울껀가요? 정말요? 지워봐요 ㅋ
-import discord #지울 수 있으면 지워봐라
-from time import time #쿨타임
-from random import * #난수
-import openpyxl #엑셀파일
-import pandas as pd #엑셀파일 (강화 순위)
+from discord.ext import commands
+import discord
+from time import time
+from random import
+import openpyxl
+import pandas as pd
 
 bot = commands.Bot(command_prefix='!')
 
